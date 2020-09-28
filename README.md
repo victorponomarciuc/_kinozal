@@ -1,2 +1,0 @@
-# _kinozal
-kinozal-template
